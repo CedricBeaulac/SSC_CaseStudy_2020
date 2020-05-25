@@ -1,4 +1,5 @@
-# SSC_CaseStudy_2020
+# SSC CaseStudy 2020
+
 R Code for the 2020 SSC Case Study competition
 
 Set your directory accordingly to source methods and Core_functions or compile directly.
