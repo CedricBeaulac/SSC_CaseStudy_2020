@@ -5,6 +5,7 @@ Set your directory accordingly to source methods and Core_functions or compile d
 
 Inputs and ouputs of functions are defined in the header comments if you need help.
 
-ExampleTesting contains the test function we used.
+ExampleTesting contains the test function used for the poster.
 
+For more information, send an email at cedric@utstat.toronto.edu
 
