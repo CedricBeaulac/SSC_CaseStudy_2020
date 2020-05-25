@@ -1,4 +1,4 @@
-# SSC CaseStudy 2020
+# SSC Case Study 2020
 
 R Code for the 2020 SSC Case Study competition
 
