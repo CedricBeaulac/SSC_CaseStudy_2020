@@ -43,12 +43,6 @@ GetSeries <- function(N,pred){
   y1f <- total_MW[(pick+1+N):(pick+N+pred)] 
   y2f <- temperature[(pick+1+N):(pick+N+pred)] 
   
-  # y1 <- cr(y1)
-  # y2 <- cr(y2)
-  # 
-  # y1f <- cr(y1f)
-  # y2f <- cr(y2f)
-  
   return(list(y1,y2,y1f,y2f,pick))
 }
 
